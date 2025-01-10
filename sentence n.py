@@ -1,3 +1,4 @@
+#بخش گرفتن ورودی
 print("guide: Separate consecutive sentences with space.")
 sequence = list(input("Enter your sequence:"))
 
